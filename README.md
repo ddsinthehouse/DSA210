@@ -1,4 +1,5 @@
 # DSA210
-ıhbıuvıuvuyvvjjgcuytfxytxuycjgvg
+uvuyvvjjgcuytfxytxuycjgvg
 
 mata pata
+tolga molga
