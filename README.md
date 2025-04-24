@@ -9,14 +9,14 @@
 ## Motivation
 
 - Social media has become an essential part of daily life, with over 5.24 billion users worldwide as of February 2025, according to Global WebIndex. The average person spends 2.21 hours on social media daily. As a university student, I rely on social media for communication, staying updated with news, and even searching for internships. However, this increasing usage led me to question its impact on an important aspect of health: sleep quality.
-- The goal of this project is to analyze how my social media usage patterns—total screen time, time spent on different social media apps, notification frequency, and phone pick-ups—affect my sleep duration.
+- The goal of this project is to analyze how my social media usage patterns—total screen time, time spent on social media apps, notification frequency, and phone pick-ups—affect my sleep duration.
 - Understanding these relationships will help me manage my social media habits to improve my sleep schedule and therefore my overall well-being.
 
 ## Data Sources
 
 - Data will be collected daily using Apple’s Screen Time and Health apps. The specific data points include:
   - **Total daily screen time:** Total time spent on my phone.
-  - **Social media usage time:** Time spent on individual social media apps.
+  - **Social media usage time:** Time spent on social media apps.
   - **Day of the week:** To analyze trends across different days.
   - **Pickup number:** The number of times I pick up my phone each day.
   - **Notifications:** The number of notifications received from different social media apps.
@@ -41,7 +41,7 @@
   - Testing whether higher screen time correlates with reduced sleep.
   - Investigating the impact of notifications and phone pick-ups on sleep quality.
 
-- **Machine Learning Methods (Later Phase):**
+- **Machine Learning Methods:**
   - Regression models to predict sleep duration based on social media usage.
   - Clustering techniques to classify different usage patterns.
 
