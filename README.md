@@ -1,16 +1,16 @@
-# Social Media Usage and Its Impact on Sleep Quality
+# Social Media Usage and Its Impact on Sleep Duration
 
 ## Description
 
-- This project explores the impact of social media usage on sleep quality using data collected from Apple’s Screen Time and Health apps.
+- This project explores the impact of social media usage on sleep duration using data collected from Apple’s Screen Time and Health apps.
 - By analyzing total screen time, social media usage patterns, notifications, and phone pick-ups, the project aims to identify potential correlations with sleep duration.
 - The findings will help in understanding whether excessive social media engagement negatively affects sleep and provide insights on healthier digital habits.
 
 ## Motivation
 
-- Social media has become an essential part of daily life, with over 5.24 billion users worldwide as of February 2025, according to Global WebIndex. The average person spends 2.21 hours on social media daily. As a university student, I rely on social media for communication, staying updated with news, and even searching for internships. However, this increasing usage led me to question its impact on an important aspect of health: sleep quality.
+- Social media has become an essential part of daily life, with over 5.24 billion users worldwide as of February 2025, according to Global WebIndex. The average person spends 2.21 hours on social media daily. As a university student, I rely on social media for communication, staying updated with news, and even searching for internships. However, this increasing usage led me to question its impact on an important aspect of health, our sleep duration needed to function properly in life. 
 - The goal of this project is to analyze how my social media usage patterns—total screen time, time spent on social media apps, notification frequency, and phone pick-ups—affect my sleep duration.
-- Understanding these relationships will help me manage my social media habits to improve my sleep schedule and therefore my overall well-being.
+- Understanding these relationships will help me manage my social media habits to improve my sleep schedule and therefore making sure I get enough amount of sleep daily.
 
 ## Data Sources
 
@@ -39,7 +39,7 @@
 
 - **Hypothesis Testing:**
   - Testing whether higher screen time correlates with reduced sleep.
-  - Investigating the impact of notifications and phone pick-ups on sleep quality.
+  - Investigating the impact of notifications and phone pick-ups on sleep duration.
 
 - **Machine Learning Methods:**
   - Regression models to predict sleep duration based on social media usage.
@@ -51,6 +51,6 @@
 
 ## Expected Outcome
 
-- By analyzing my social media usage and sleep quality, I aim to derive actionable insights on whether certain usage patterns negatively impact sleep.
-- This analysis will help in developing healthier digital habits for better sleep quality.
+- By analyzing my social media usage and sleep duration, I aim to derive actionable insights on whether certain usage patterns negatively impact sleep.
+- This analysis will help in developing healthier digital habits for being conscious about hours of sleep I get daily.
 
