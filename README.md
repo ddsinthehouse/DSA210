@@ -4,7 +4,7 @@
 
 - This project explores the impact of social media usage on sleep duration using data collected from Apple’s Screen Time and Health apps.
 - By analyzing total screen time, social media usage patterns, notifications, and phone pick-ups, the project aims to identify potential correlations with sleep duration.
-- The findings will help in understanding whether excessive social media engagement negatively affects sleep and provide insights on healthier digital habits.
+- The findings will help in understanding whether excessive social media engagement negatively affects amount of sleep taken and provide insights on healthier digital habits.
 
 ## Motivation
 
@@ -51,6 +51,6 @@
 
 ## Expected Outcome
 
-- By analyzing my social media usage and sleep duration, I aim to derive actionable insights on whether certain usage patterns negatively impact sleep.
+- By analyzing my social media usage and sleep duration, I aim to derive actionable insights on whether certain usage patterns negatively impact sleep duration.
 - This analysis will help in developing healthier digital habits for being conscious about hours of sleep I get daily.
 
